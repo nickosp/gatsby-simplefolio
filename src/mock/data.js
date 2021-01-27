@@ -2,7 +2,7 @@ import { nanoid } from 'nanoid';
 
 // HEAD DATA
 export const headData = {
-  title: '', // e.g: 'Name | Developer'
+  title: 'Nickos Papageorge', // e.g: 'Name | Developer'
   lang: '', // e.g: en, es, fr, jp
   description: '', // e.g: Welcome to my website
 };
@@ -23,7 +23,7 @@ export const aboutData = {
   paragraphTwo:
     'Communication is key when working with a group and I take pride in being a reliable active member of a team. I have a history of team success, strong leadership, and am a very highly motivated worker who is eager to help your company!',
   // eslint-disable-next-line prettier/prettier
-  paragraphThree: 'When I\'m not coding, I like to stay active by playing soccer & basketball. I have a passion for meeting new people & traveling the world.',
+  paragraphThree: 'When I\'m not coding, I like to stay active by playing soccer & basketball. I have a passion for meeting new people & traveling the world',
   // Resume: 'https://www.linkedin.com/in/nickos-papageorge/', // if no resume, the button will not show up
 };
 
